@@ -25309,11 +25309,7 @@
         "description": "Konfiguriere deinen Service Provider. {howto}Mehr details: {docs_url}",
         "data": {
           "calendar_title": "Kalender Titel",
-          "bulkyObjectID": "Bulky Object Id",
-          "objectID": "Object Id",
-          "recycleObjectID": "Recycle Object Id",
-          "trashObjectID": "Trash Object Id",
-          "try_official": "Try Official"
+          "objectID": "Object Id"
         },
         "data_description": {
           "calendar_title": "Ein lesbarerer oder benutzerfreundlicherer Name für den Müllkalender. Wenn nichts angegeben wird, wird der Name der Quelle verwendet."
@@ -25324,11 +25320,7 @@
         "description": "Konfiguriere deinen Service Provider. {howto}Mehr details: {docs_url}",
         "data": {
           "calendar_title": "Kalender Titel",
-          "bulkyObjectID": "Bulky Object Id",
-          "objectID": "Object Id",
-          "recycleObjectID": "Recycle Object Id",
-          "trashObjectID": "Trash Object Id",
-          "try_official": "Try Official"
+          "objectID": "Object Id"
         },
         "data_description": {}
       },

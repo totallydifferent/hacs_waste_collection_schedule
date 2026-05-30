@@ -26016,19 +26016,11 @@
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
         "data": {
           "calendar_title": "Calendar Title",
-          "bulkyObjectID": "Bulky Object Id",
-          "objectID": "Object Id",
-          "recycleObjectID": "Recycle Object Id",
-          "trashObjectID": "Trash Object Id",
-          "try_official": "Try Official"
+          "objectID": "Object ID"
         },
         "data_description": {
           "calendar_title": "A more readable, or user-friendly, name for the waste calendar. If nothing is provided, the name returned by the source will be used.",
-          "bulkyObjectID": "Object ID from 'Bulky Waste Zones'.",
-          "objectID": "Object ID for unofficial source (okc.schizo.dev).",
-          "recycleObjectID": "Object ID from 'Recycle Zones'.",
-          "trashObjectID": "Object ID from 'Trash Zones'.",
-          "try_official": "If checked, use official data.okc.gov zone datasets and the three Object IDs below."
+          "objectID": "Object ID for the public feed (okc.schizo.dev)."
         }
       },
       "reconfigure_okc_gov": {
@@ -26036,18 +26028,10 @@
         "description": "Configure your service provider. {howto}More details: {docs_url}.",
         "data": {
           "calendar_title": "Calendar Title",
-          "bulkyObjectID": "Bulky Object Id",
-          "objectID": "Object Id",
-          "recycleObjectID": "Recycle Object Id",
-          "trashObjectID": "Trash Object Id",
-          "try_official": "Try Official"
+          "objectID": "Object ID"
         },
         "data_description": {
-          "bulkyObjectID": "Object ID from 'Bulky Waste Zones'.",
-          "objectID": "Object ID for unofficial source (okc.schizo.dev).",
-          "recycleObjectID": "Object ID from 'Recycle Zones'.",
-          "trashObjectID": "Object ID from 'Trash Zones'.",
-          "try_official": "If checked, use official data.okc.gov zone datasets and the three Object IDs below."
+          "objectID": "Object ID for the public feed (okc.schizo.dev)."
         }
       },
       "args_phila_gov": {
